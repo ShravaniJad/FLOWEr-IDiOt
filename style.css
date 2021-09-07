@@ -1,0 +1,42 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#home {
+    color: black;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: auto;
+
+}
+
+.menu {
+    position: fixed;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+.flower {
+    width: 30%;
+    height: 40%;
+    border-radius: 50%;
+}
+
+.homies {
+    width: 100%;
+    height: auto;
+    opacity: 50;
+}
+
+#MyCarousel img {
+    width: 30%;
+    height: auto;
+
+
+}
